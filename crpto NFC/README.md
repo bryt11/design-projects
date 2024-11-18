@@ -4,6 +4,7 @@ Table of Contents for Crypto NFT Landing Page
 [Design Highlights](#design-highlights)
 [Tools Used](#tools-used)
 [How to Use](#how-to-use)
+[Figma Link](#figma-link)
 [License](#license)
 [Contact](#contact)
 
@@ -47,6 +48,12 @@ This project is a sleek and modern landing page designed for a crypto and NFT ma
     -   Export assets or implement the design into your preferred development framework.
 
 ---
+## Figma Link
+
+    -   https://www.figma.com/design/w0N74aDhQT6cuznOyzUCcB/CRYPTO-with-NFT-Landing-page?node-id=0-1&node-type=canvas
+
+---
+
 
 ## License
 
